@@ -1,0 +1,3587 @@
+Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:18:55) [MSC v.1900 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+===================== RESTART: G:\KT_task\ngram.py =====================
+Misspelled Word£ºaccually
+Correct Word: actually
+Predicted Word: ['actually', 'ally']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºaddidas
+Correct Word: adidas
+Predicted Word: ['adidas']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºadn
+Correct Word: and
+Predicted Word: ['addn']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºaer
+Correct Word: are
+Predicted Word: ['aer']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºaeroplane
+Correct Word: airplane
+Predicted Word: ['aeroplane']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºagin
+Correct Word: again
+Predicted Word: ['agin']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºaginst
+Correct Word: against
+Predicted Word: ['against', 'agist']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºahain
+Correct Word: again
+Predicted Word: ['ain']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºairborn
+Correct Word: airborne
+Predicted Word: ['airborn']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºakward
+Correct Word: awkward
+Predicted Word: ['award', 'awkward']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºalchohal
+Correct Word: alcohol
+Predicted Word: ['alcohol']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºalchy
+Correct Word: alky
+Predicted Word: ['alchymy']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºalterior
+Correct Word: ulterior
+Predicted Word: ['alter', 'alterer']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºalter
+Correct Word: later
+Predicted Word: ['alter', 'alterer']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºamasing
+Correct Word: amazing
+Predicted Word: ['amassing']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºamature
+Correct Word: amateur
+Predicted Word: ['armature', 'mature']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºamazimg
+Correct Word: amazing
+Predicted Word: ['amazing']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºamazong
+Correct Word: amazing
+Predicted Word: ['amazon']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºamde
+Correct Word: made
+Predicted Word: ['ade', 'amd', 'ame', 'amide']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºamendola
+Correct Word: amenbola
+Predicted Word: ['amend', 'amendment']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºancy
+Correct Word: antsy
+Predicted Word: ['anciency']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºanf
+Correct Word: and
+Predicted Word: ['af', 'an', 'anan']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºappology
+Correct Word: apology
+Predicted Word: ['apology']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºappropo
+Correct Word: apropos
+Predicted Word: ['appro']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºarguement
+Correct Word: argument
+Predicted Word: ['argument']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºarsewipe
+Correct Word: asswipe
+Predicted Word: ['arsewipe']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºastrix
+Correct Word: asterix
+Predicted Word: ['strix']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºathiest
+Correct Word: atheist
+Predicted Word: ['lathiest']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºathy
+Correct Word: atheist
+Predicted Word: ['apathy', 'athymy']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºawch
+Correct Word: ouch
+Predicted Word: ['ach']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºawsome
+Correct Word: awesome
+Predicted Word: ['awesome']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºaye
+Correct Word: eh
+Predicted Word: ['aye']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºazz
+Correct Word: ass
+Predicted Word: ['az']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºb0i
+Correct Word: boy
+Predicted Word: ['bi']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºb4
+Correct Word: before
+Predicted Word: ['b']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbackwords
+Correct Word: backward
+Predicted Word: ['backswords', 'backword']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºbaddy
+Correct Word: baddie
+Predicted Word: ['baddy']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbaest
+Correct Word: beast
+Predicted Word: ['barest', 'basest', 'bast', 'best']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºbafoon
+Correct Word: buffoon
+Predicted Word: ['baboon', 'batoon', 'boon']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºbagget
+Correct Word: baguette
+Predicted Word: ['baggage', 'bagge', 'bragget']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºballing
+Correct Word: bawling
+Predicted Word: ['balling']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºballon
+Correct Word: balloons
+Predicted Word: ['ballon']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºballsac
+Correct Word: ballsack
+Predicted Word: ['bac', 'balls', 'balsa']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºbaqk
+Correct Word: back
+Predicted Word: ['ba', 'baba', 'back', 'balk', 'bank', 'bark', 'bask', 'bauk', 'bk']
+Score: 1 of 9
+********************************************
+Misspelled Word£ºbawz
+Correct Word: baws
+Predicted Word: ['baw']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbearfoot
+Correct Word: barefoot
+Predicted Word: ['bearfoot']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbebeh
+Correct Word: baby
+Predicted Word: ['bebed', 'beebe']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºbeeotch
+Correct Word: biatch
+Predicted Word: ['bebotch', 'beech', 'botch']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºbeery
+Correct Word: berry
+Predicted Word: ['beery', 'berbery']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºbeeze
+Correct Word: beezie
+Predicted Word: ['beebee']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbehenchod
+Correct Word: bhenchod
+Predicted Word: ['benched']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbeutiful
+Correct Word: beautiful
+Predicted Word: ['beautiful']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºbewn
+Correct Word: b00n
+Predicted Word: ['ben']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbiast
+Correct Word: bias
+Predicted Word: ['bast', 'bias', 'bist']
+Score: 1 of 3
+********************************************
+Misspelled Word£ºbibl
+Correct Word: bible
+Predicted Word: ['bibl']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbicth
+Correct Word: bitch
+Predicted Word: ['bic', 'birth']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºbiotch
+Correct Word: bitch
+Predicted Word: ['biotech', 'bitch', 'botch']
+Score: 1 of 3
+********************************************
+Misspelled Word£ºbitach
+Correct Word: bitatch
+Predicted Word: ['bitch']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºbitach
+Correct Word: bitatch
+Predicted Word: ['bitch']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºbitchen
+Correct Word: bitchin
+Predicted Word: ['birchen', 'bitch', 'bitched', 'bitches', 'chechen', 'kitchen', 'witchen']
+Score: 1 of 7
+********************************************
+Misspelled Word£ºbitcj
+Correct Word: bitch
+Predicted Word: ['bit', 'bitch']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºbithc
+Correct Word: bitch
+Predicted Word: ['bic', 'bit', 'thc']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºbitsh
+Correct Word: bitch
+Predicted Word: ['bish', 'bits']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºbizness
+Correct Word: business
+Predicted Word: ['bigness', 'bignesses', 'bines', 'bizes', 'bizones']
+Score: 0 of 5
+********************************************
+Misspelled Word£ºbizy
+Correct Word: busy
+Predicted Word: ['biz']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºblar
+Correct Word: blah
+Predicted Word: ['bar', 'belar', 'blair', 'blare', 'blart', 'blastular', 'blear', 'bolar', 'lar']
+Score: 0 of 9
+********************************************
+Misspelled Word£ºblatently
+Correct Word: blatantly
+Predicted Word: ['latently']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbler
+Correct Word: bleh
+Predicted Word: ['bleiler']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºblond
+Correct Word: blonde
+Predicted Word: ['blond']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbobies
+Correct Word: boobies
+Predicted Word: ['bobbies', 'boobies']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºboke
+Correct Word: boak
+Predicted Word: ['boke']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbollicks
+Correct Word: bollocks
+Predicted Word: ['bollocks', 'rollicks']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºbollix
+Correct Word: bollocks
+Predicted Word: ['bollix']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbollox
+Correct Word: bollocks
+Predicted Word: ['bollox']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbollucks
+Correct Word: bollocks
+Predicted Word: ['bollocks']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºbona
+Correct Word: boner
+Predicted Word: ['bona']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbonza
+Correct Word: bonzer
+Predicted Word: ['bonanza']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºboobes
+Correct Word: boobs
+Predicted Word: ['booboos']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºboobiez
+Correct Word: boobies
+Predicted Word: ['booboo']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbote
+Correct Word: boat
+Predicted Word: ['bote', 'botete']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºboudicca
+Correct Word: boudica
+Predicted Word: ['bocca']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbraj
+Correct Word: brah
+Predicted Word: ['bra', 'raj']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºbrane
+Correct Word: brain
+Predicted Word: ['bane', 'borane', 'brae', 'bran', 'branle', 'rane']
+Score: 0 of 6
+********************************************
+Misspelled Word£ºbrasil
+Correct Word: brazil
+Predicted Word: ['brasil']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbratwurst
+Correct Word: bratwurst
+Predicted Word: ['bratwurst']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºbrillant
+Correct Word: brillant
+Predicted Word: ['brillante', 'brilliant']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºbronie
+Correct Word: brony
+Predicted Word: ['brownie']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbrootal
+Correct Word: brutal
+Predicted Word: ['brool', 'broomroot', 'rotal']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºbru
+Correct Word: bro
+Predicted Word: ['brubru']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbrussels
+Correct Word: brussel
+Predicted Word: ['brussels']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbryt
+Correct Word: bright
+Predicted Word: ['br', 'brat', 'bret', 'brit', 'brot', 'brut', 'bryant', 'bryn', 'bt', 'tryt', 'yt']
+Score: 0 of 11
+********************************************
+Misspelled Word£ºbss
+Correct Word: bs
+Predicted Word: ['bbss', 'bs']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºbubbla
+Correct Word: bubbler
+Predicted Word: ['bubba']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbuggie
+Correct Word: buggy
+Predicted Word: ['buggier', 'buggies']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºburd
+Correct Word: bird
+Predicted Word: ['burd']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºburque
+Correct Word: alburquerque
+Predicted Word: ['barque', 'bure']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºbutthead
+Correct Word: butthead
+Predicted Word: ['bitthead', 'busthead', 'butterhead']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºbutti
+Correct Word: butty
+Predicted Word: ['butt']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºbwt
+Correct Word: btw
+Predicted Word: ['bt', 'wt']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºbytch
+Correct Word: bitch
+Predicted Word: ['byth']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºcacky
+Correct Word: khaki
+Predicted Word: ['caca', 'cack', 'cackly', 'caky', 'cracky']
+Score: 0 of 5
+********************************************
+Misspelled Word£ºcaffiene
+Correct Word: caffeine
+Predicted Word: ['scaffie']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºcahones
+Correct Word: cojones
+Predicted Word: ['cajones', 'canes', 'canones', 'cones', 'hones']
+Score: 0 of 5
+********************************************
+Misspelled Word£ºcaire
+Correct Word: car
+Predicted Word: ['calcaire']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºcamero
+Correct Word: camaro
+Predicted Word: ['cameo', 'cameramen', 'cameron']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºcamoflauge
+Correct Word: camouflage
+Predicted Word: ['camouflage']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºcanadiens
+Correct Word: canadian
+Predicted Word: ['canadians']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºcapice
+Correct Word: capisce
+Predicted Word: ['caprice']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºcarzy
+Correct Word: crazy
+Predicted Word: ['cary', 'carzey']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºcatbox
+Correct Word: chatbox
+Predicted Word: ['catboat']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºcelfie
+Correct Word: selfie
+Predicted Word: ['ce', 'cele', 'selfie']
+Score: 1 of 3
+********************************************
+Misspelled Word£ºcentre
+Correct Word: center
+Predicted Word: ['centre']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºcheezy
+Correct Word: cheesy
+Predicted Word: ['heezy']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºcherrios
+Correct Word: cheerioes
+Predicted Word: ['cheerios']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºchika
+Correct Word: chica
+Predicted Word: ['chikara']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºchoad
+Correct Word: chode
+Predicted Word: ['chad', 'chocho']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºchoon
+Correct Word: tune
+Predicted Word: ['chon', 'choochoo']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºciik
+Correct Word: cool
+Predicted Word: ['ci', 'ck', 'croiik', 'ik']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºclik
+Correct Word: clique
+Predicted Word: ['claik', 'cli', 'click', 'clink', 'clk']
+Score: 0 of 5
+********************************************
+Misspelled Word£ºclitorus
+Correct Word: clittoris
+Predicted Word: ['clitoris', 'clitoritis']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºclumbsy
+Correct Word: clumsy
+Predicted Word: ['clumsy']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºcolour
+Correct Word: colour
+Predicted Word: ['colour']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºcomg
+Correct Word: xomg
+Predicted Word: ['cmg', 'cog', 'com', 'comdg']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºcomix
+Correct Word: comics
+Predicted Word: ['comix']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºcondragulations
+Correct Word: congratulations
+Predicted Word: ['coagulations']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºcongradulations
+Correct Word: congratulations
+Predicted Word: ['congratulations']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºcoolies
+Correct Word: cool
+Predicted Word: ['coolies']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºcorney
+Correct Word: corney
+Predicted Word: ['coney', 'corey', 'corny']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºcowa
+Correct Word: cows
+Predicted Word: ['cocoa', 'cow', 'cowal', 'cowan']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºcox
+Correct Word: cocks
+Predicted Word: ['cox']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºcraftwork
+Correct Word: kraftwerk
+Predicted Word: ['craftwork']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºcrape
+Correct Word: crap
+Predicted Word: ['crape']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºcrappie
+Correct Word: crappy
+Predicted Word: ['crappie']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºcricky
+Correct Word: crikey
+Predicted Word: ['crick', 'crickey', 'ricky']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºcuteiful
+Correct Word: cutiful
+Predicted Word: ['cul']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºcutiest
+Correct Word: cutest
+Predicted Word: ['chestiest', 'cutesiest']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºcuttie
+Correct Word: cutie
+Predicted Word: ['cutie']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºdaemon
+Correct Word: demon
+Predicted Word: ['daemon']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdaimond
+Correct Word: diamond
+Predicted Word: ['daimon']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdamb
+Correct Word: damn
+Predicted Word: ['amb', 'dab', 'dam', 'diamb']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºdarlek
+Correct Word: dalek
+Predicted Word: ['dark']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºdaygo
+Correct Word: dago
+Predicted Word: ['dago']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºdearth
+Correct Word: dirth
+Predicted Word: ['dearth']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºdeece
+Correct Word: dece
+Predicted Word: ['decede']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdefiantly
+Correct Word: definitely
+Predicted Word: ['defiantly']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdefinately
+Correct Word: definitely
+Predicted Word: ['definitely']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºdefinetely
+Correct Word: definitely
+Predicted Word: ['definitely']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºdefinetly
+Correct Word: definitely
+Predicted Word: ['definedly']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdefinitly
+Correct Word: definitely
+Predicted Word: ['definitely']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºdeuche
+Correct Word: douche
+Predicted Word: ['deuce']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdhe
+Correct Word: the
+Predicted Word: ['de', 'he', 'hehe']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºdiarhea
+Correct Word: diarrhea
+Predicted Word: ['diarrhea']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºdike
+Correct Word: dyke
+Predicted Word: ['dike']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdill
+Correct Word: dil
+Predicted Word: ['dill']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdillusional
+Correct Word: delusional
+Predicted Word: ['illusional']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdirrty
+Correct Word: dirty
+Predicted Word: ['dirty']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºdirth
+Correct Word: dearth
+Predicted Word: ['dirt']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdjinn
+Correct Word: jinn
+Predicted Word: ['djinn']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdoenst
+Correct Word: doesn
+Predicted Word: ['doest']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdonit
+Correct Word: doughnut
+Predicted Word: ['doit', 'doni', 'dont']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºdooche
+Correct Word: douche
+Predicted Word: ['diadoche', 'douche']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºdoosh
+Correct Word: douche
+Predicted Word: ['dosh']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdrak
+Correct Word: dark
+Predicted Word: ['dak', 'drake', 'drank', 'drawk']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºdray
+Correct Word: dry
+Predicted Word: ['dray']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdroll
+Correct Word: drole
+Predicted Word: ['droll']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdrunck
+Correct Word: drunk
+Predicted Word: ['drunk']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºdubes
+Correct Word: doobie
+Predicted Word: ['daubes', 'dubs', 'dues']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºdufus
+Correct Word: doofus
+Predicted Word: ['duffus']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdumby
+Correct Word: dummy
+Predicted Word: ['dumby']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdun
+Correct Word: done
+Predicted Word: ['dun']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdurnk
+Correct Word: drunk
+Predicted Word: ['dunk', 'durn']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºdurp
+Correct Word: derp
+Predicted Word: ['dup', 'dur']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºdurr
+Correct Word: dir
+Predicted Word: ['durr']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdwag
+Correct Word: dawg
+Predicted Word: ['wagwag']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºdweeb
+Correct Word: dickweed
+Predicted Word: ['deb', 'dweeble', 'web']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºdyne
+Correct Word: down
+Predicted Word: ['dyne']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºecstacy
+Correct Word: ecstasy
+Predicted Word: ['ecstasy', 'eustacy', 'stacy']
+Score: 1 of 3
+********************************************
+Misspelled Word£ºectasy
+Correct Word: ecstasy
+Predicted Word: ['ecstasy']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºedn
+Correct Word: end
+Predicted Word: ['dn', 'ed', 'eden', 'edna', 'en', 'fedn']
+Score: 0 of 6
+********************************************
+Misspelled Word£ºegat
+Correct Word: egads
+Predicted Word: ['begat', 'eat', 'ega', 'gat']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºeigth
+Correct Word: eighth
+Predicted Word: ['eigh', 'eighth']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºembarass
+Correct Word: embarrass
+Predicted Word: ['embarrass']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºengish
+Correct Word: english
+Predicted Word: ['english']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºenterprize
+Correct Word: enterprise
+Predicted Word: ['enterprize']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºentre
+Correct Word: enter
+Predicted Word: ['entre']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºentrence
+Correct Word: entrance
+Predicted Word: ['entre']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºenuf
+Correct Word: enough
+Predicted Word: ['ef', 'en', 'enif', 'enum']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºeonnie
+Correct Word: unni
+Predicted Word: ['bonnie', 'connie', 'donnie', 'ronnie', 'yonnie']
+Score: 0 of 5
+********************************************
+Misspelled Word£ºepitomy
+Correct Word: epitome
+Predicted Word: ['epitomatory', 'epitome']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºeverythink
+Correct Word: everything
+Predicted Word: ['everything']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºexept
+Correct Word: except
+Predicted Word: ['except', 'exempt', 'expt']
+Score: 1 of 3
+********************************************
+Misspelled Word£ºeys
+Correct Word: yes
+Predicted Word: ['beys', 'deys', 'emys', 'es', 'ey', 'eyas', 'eyes', 'eyey', 'keys', 'leys', 'weys', 'ys']
+Score: 0 of 12
+********************************************
+Misspelled Word£ºfaecbook
+Correct Word: facebook
+Predicted Word: ['boobook']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºfaery
+Correct Word: fairy
+Predicted Word: ['faery']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºfaget
+Correct Word: faggot
+Predicted Word: ['aget', 'fage']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºfagget
+Correct Word: faggot
+Predicted Word: ['aget', 'fage', 'fagged', 'fagger', 'faggot']
+Score: 1 of 5
+********************************************
+Misspelled Word£ºfaggit
+Correct Word: faggot
+Predicted Word: ['agit', 'baggit', 'faggot', 'fait', 'giggit']
+Score: 1 of 5
+********************************************
+Misspelled Word£ºfagit
+Correct Word: faggot
+Predicted Word: ['agit', 'fait']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºfagot
+Correct Word: faggot
+Predicted Word: ['fagot']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºfale
+Correct Word: fail
+Predicted Word: ['fatale']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºfanboi
+Correct Word: fanboy
+Predicted Word: ['fanboy']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºfassi
+Correct Word: fassy
+Predicted Word: ['assi', 'assisi', 'fass']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºfcuk
+Correct Word: fuck
+Predicted Word: ['fc', 'uk']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºfeminista
+Correct Word: feminist
+Predicted Word: ['femininism', 'feminist']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºfewmin
+Correct Word: fuming
+Predicted Word: ['feminin']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºfhone
+Correct Word: phone
+Predicted Word: ['fone', 'hone']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºfiels
+Correct Word: files
+Predicted Word: ['fels', 'fiel', 'fields', 'fils']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºfiend
+Correct Word: friend
+Predicted Word: ['fiend']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºfigger
+Correct Word: figure
+Predicted Word: ['figeter', 'figgery', 'figgier', 'fligger', 'frigger']
+Score: 0 of 5
+********************************************
+Misspelled Word£ºfirt
+Correct Word: first
+Predicted Word: ['fir', 'fireflirt', 'first', 'firth', 'fit', 'flirt', 'frt']
+Score: 1 of 7
+********************************************
+Misspelled Word£ºfitbaw
+Correct Word: fitba
+Predicted Word: ['baw', 'fit']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºflem
+Correct Word: phlegm
+Predicted Word: ['flem']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºflodge
+Correct Word: flauge
+Predicted Word: ['flodge']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºfoking
+Correct Word: fucking
+Predicted Word: ['finking', 'foining', 'forking', 'kinging', 'kinking', 'oking']
+Score: 0 of 6
+********************************************
+Misspelled Word£ºfolling
+Correct Word: following
+Predicted Word: ['fooling']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºfomg
+Correct Word: omfg
+Predicted Word: ['fog']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºfooot
+Correct Word: foot
+Predicted Word: ['foot']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºforse
+Correct Word: force
+Predicted Word: ['forsee']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºfortay
+Correct Word: forte
+Predicted Word: ['foray', 'forty']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºfourplay
+Correct Word: foreplay
+Predicted Word: ['flay', 'foreplay', 'forlay', 'four', 'play']
+Score: 1 of 5
+********************************************
+Misspelled Word£ºfourty
+Correct Word: forty
+Predicted Word: ['forty', 'fouty']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºfrek
+Correct Word: freak
+Predicted Word: ['freak', 'freck', 'frere']
+Score: 1 of 3
+********************************************
+Misspelled Word£ºfrisby
+Correct Word: frisbee
+Predicted Word: ['fribby', 'fris', 'frisky']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºfucc
+Correct Word: fuck
+Predicted Word: ['fcc']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºfuckly
+Correct Word: fugly
+Predicted Word: ['feckly', 'fickly', 'fuck', 'luckly']
+Score: 1 of 4
+********************************************
+Misspelled Word£ºfujk
+Correct Word: fuck
+Predicted Word: ['fu', 'fuck', 'fuji', 'fulk', 'funk', 'fusk']
+Score: 1 of 6
+********************************************
+Misspelled Word£ºfuk
+Correct Word: fuck
+Predicted Word: ['fu', 'fuck', 'fulk', 'funk', 'fusk', 'uk']
+Score: 1 of 6
+********************************************
+Misspelled Word£ºfukk
+Correct Word: fuck
+Predicted Word: ['kkk']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºfune
+Correct Word: fine
+Predicted Word: ['fun', 'funebre', 'funge', 'funje']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºfurg
+Correct Word: fag
+Predicted Word: ['furfur']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºgabor
+Correct Word: gaybar
+Predicted Word: ['gabor']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºgache
+Correct Word: gash
+Predicted Word: ['ache', 'gauche']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºgaea
+Correct Word: gaia
+Predicted Word: ['gaea']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºgaie
+Correct Word: gay
+Predicted Word: ['gae', 'gaine', 'gaize', 'gie']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºgaint
+Correct Word: giant
+Predicted Word: ['aint', 'gain', 'gainpain', 'gainst', 'gait', 'gant']
+Score: 0 of 6
+********************************************
+Misspelled Word£ºgamz
+Correct Word: gamez
+Predicted Word: ['gam', 'gaz']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºgaol
+Correct Word: jail
+Predicted Word: ['gaol']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºgave
+Correct Word: gayve
+Predicted Word: ['gave']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºgawgus
+Correct Word: gorgeous
+Predicted Word: ['gawgaw']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºgaye
+Correct Word: gay
+Predicted Word: ['gaye']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºgeezus
+Correct Word: jesus
+Predicted Word: ['gees', 'geez']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºge
+Correct Word: gay
+Predicted Word: ['ge']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºgenious
+Correct Word: genius
+Predicted Word: ['genius']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºgernade
+Correct Word: grenade
+Predicted Word: ['gade', 'ge', 'gere']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºghei
+Correct Word: ghey
+Predicted Word: ['ghi', 'hei']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºghey
+Correct Word: gay
+Predicted Word: ['gehey', 'gey', 'hey']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºgirk
+Correct Word: girl
+Predicted Word: ['irk']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºgiys
+Correct Word: guys
+Predicted Word: ['gis']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºgodamn
+Correct Word: goddamn
+Predicted Word: ['goddamn']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºgokken
+Correct Word: gokkun
+Predicted Word: ['bokken', 'goen']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºgoogleplex
+Correct Word: googolplex
+Predicted Word: ['googolplex']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºgoot
+Correct Word: fagoot
+Predicted Word: ['got']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºgoregous
+Correct Word: gorgeous
+Predicted Word: ['gores', 'goustrous']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºgorjuss
+Correct Word: gorgeous
+Predicted Word: ['goss', 'guss']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºgotton
+Correct Word: gotten
+Predicted Word: ['gon']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºgr8t
+Correct Word: great
+Predicted Word: ['gr', 'grat', 'gret', 'grit', 'grot', 'gt']
+Score: 0 of 6
+********************************************
+Misspelled Word£ºgrammer
+Correct Word: grammar
+Predicted Word: ['gammer', 'gramme', 'rammer']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºgravey
+Correct Word: gravy
+Predicted Word: ['grave', 'gravely', 'gravery', 'gravy']
+Score: 1 of 4
+********************************************
+Misspelled Word£ºgret
+Correct Word: great
+Predicted Word: ['gret']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºgroce
+Correct Word: gross
+Predicted Word: ['grocer']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºgrock
+Correct Word: grok
+Predicted Word: ['gritrock', 'grok', 'rock']
+Score: 1 of 3
+********************************************
+Misspelled Word£ºgrodie
+Correct Word: grody
+Predicted Word: ['brodie', 'goodie']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºgrosse
+Correct Word: gross
+Predicted Word: ['grosse']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºgrrl
+Correct Word: girl
+Predicted Word: ['grr']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºguey
+Correct Word: buey
+Predicted Word: ['aguey', 'gey', 'gluey', 'gue', 'guy']
+Score: 0 of 5
+********************************************
+Misspelled Word£ºguey
+Correct Word: buey
+Predicted Word: ['aguey', 'gey', 'gluey', 'gue', 'guy']
+Score: 0 of 5
+********************************************
+Misspelled Word£ºguh
+Correct Word: ugh
+Predicted Word: ['gu', 'gugu', 'guha', 'guhr', 'gush', 'uh']
+Score: 0 of 6
+********************************************
+Misspelled Word£ºguildford
+Correct Word: guilford
+Predicted Word: ['guildford']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºguiness
+Correct Word: guinness
+Predicted Word: ['guinness']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºgullable
+Correct Word: gullible
+Predicted Word: ['gullable']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºgurh
+Correct Word: girl
+Predicted Word: ['gur', 'gursh']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºgurl
+Correct Word: girl
+Predicted Word: ['gurl']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhacer
+Correct Word: hacker
+Predicted Word: ['acer', 'hacker']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºhaet
+Correct Word: hate
+Predicted Word: ['haet']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhammah
+Correct Word: hammer
+Predicted Word: ['hammam']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhampster
+Correct Word: hamster
+Predicted Word: ['hamster']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºhanus
+Correct Word: heinous
+Predicted Word: ['anus', 'hans', 'hanumans']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºharang
+Correct Word: harangue
+Predicted Word: ['harang']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºharting
+Correct Word: hearting
+Predicted Word: ['charting', 'haring', 'hartin', 'hating', 'hearting']
+Score: 1 of 5
+********************************************
+Misspelled Word£ºhaterz
+Correct Word: haters
+Predicted Word: ['hater']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºhatorade
+Correct Word: haterade
+Predicted Word: ['hade']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhatter
+Correct Word: hater
+Predicted Word: ['hatter']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhaway
+Correct Word: howay
+Predicted Word: ['hathaway']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhawt
+Correct Word: hot
+Predicted Word: ['hat', 'haw', 'hwt']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºhayte
+Correct Word: hate
+Predicted Word: ['hate', 'haye', 'hayter', 'hyte']
+Score: 1 of 4
+********************************************
+Misspelled Word£ºhaz
+Correct Word: have
+Predicted Word: ['ahaz', 'az', 'ha', 'haha', 'hayz', 'haze', 'hazy', 'hz']
+Score: 1 of 8
+********************************************
+Misspelled Word£ºhed
+Correct Word: head
+Predicted Word: ['hed']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºheeb
+Correct Word: hebe
+Predicted Word: ['hee']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhellow
+Correct Word: hello
+Predicted Word: ['hello']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºhenessy
+Correct Word: hennessy
+Predicted Word: ['henen', 'hennessey']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºhennesy
+Correct Word: hennessy
+Predicted Word: ['hennes']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhepl
+Correct Word: help
+Predicted Word: ['hel', 'hep']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºhexa
+Correct Word: hecksa
+Predicted Word: ['hexa']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhiccups
+Correct Word: hiccough
+Predicted Word: ['hiccups']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhippocrate
+Correct Word: hypocrite
+Predicted Word: ['hippocratea', 'hippocrates']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºhlep
+Correct Word: help
+Predicted Word: ['hep', 'lep', 'shlep']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºhmwk
+Correct Word: homework
+Predicted Word: ['hawk', 'hm', 'howk', 'wk']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºhobit
+Correct Word: hobbit
+Predicted Word: ['hobbit']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºhoe
+Correct Word: ho
+Predicted Word: ['hoe']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhoe
+Correct Word: ho
+Predicted Word: ['hoe']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhomey
+Correct Word: homie
+Predicted Word: ['homey']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhommie
+Correct Word: homie
+Predicted Word: ['homme']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhonour
+Correct Word: honor
+Predicted Word: ['honour']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhony
+Correct Word: honey
+Predicted Word: ['hny', 'homophony', 'hon', 'honey', 'honky', 'horny', 'hosny', 'hoy', 'ony', 'phony']
+Score: 1 of 10
+********************************************
+Misspelled Word£ºhoody
+Correct Word: hoodie
+Predicted Word: ['hoody']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhoog
+Correct Word: hugs
+Predicted Word: ['hog']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhopless
+Correct Word: hopeless
+Predicted Word: ['hoopless']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhore
+Correct Word: whore
+Predicted Word: ['hore']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhott
+Correct Word: hot
+Predicted Word: ['hot', 'hotshot']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºhrlp
+Correct Word: help
+Predicted Word: ['halp', 'help', 'holp', 'hp', 'hr', 'lp']
+Score: 1 of 6
+********************************************
+Misspelled Word£ºhshs
+Correct Word: haha
+Predicted Word: ['hs']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhumerous
+Correct Word: humorous
+Predicted Word: ['humerus']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºhuni
+Correct Word: honey
+Predicted Word: ['hui', 'hun', 'hundi', 'uni']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºhunnit
+Correct Word: hundred
+Predicted Word: ['hunnic', 'hunt', 'tunnit', 'unit']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºidot
+Correct Word: idiot
+Predicted Word: ['dot', 'idiot', 'ido']
+Score: 1 of 3
+********************************************
+Misspelled Word£ºiklas
+Correct Word: ikhlas
+Predicted Word: ['niklas']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºilleterate
+Correct Word: illiterate
+Predicted Word: ['illiterate']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºimmigratio
+Correct Word: immigration
+Predicted Word: ['immigration']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºinane
+Correct Word: insane
+Predicted Word: ['inane']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºinbread
+Correct Word: inbred
+Predicted Word: ['inbread']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºincerdible
+Correct Word: incredible
+Predicted Word: ['imperdible', 'includible', 'incredible', 'inedible', 'invincible']
+Score: 1 of 5
+********************************************
+Misspelled Word£ºinfinity
+Correct Word: infiniti
+Predicted Word: ['infinity']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºinfomation
+Correct Word: information
+Predicted Word: ['information']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºingerland
+Correct Word: england
+Predicted Word: ['gerland']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºinjen
+Correct Word: injun
+Predicted Word: ['in', 'injoin']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºinjoy
+Correct Word: enjoy
+Predicted Word: ['injoin']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºitens
+Correct Word: items
+Predicted Word: ['intens', 'iten', 'tens']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºitz
+Correct Word: it
+Predicted Word: ['ditz', 'fitz', 'it', 'itza', 'litz', 'ritz', 'sitz']
+Score: 1 of 7
+********************************************
+Misspelled Word£ºjalopy
+Correct Word: jalapa
+Predicted Word: ['jalopy']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºjeah
+Correct Word: yeah
+Predicted Word: ['jah']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºjealz
+Correct Word: jealous
+Predicted Word: ['jean', 'jear', 'jeez', 'walz']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºjedd
+Correct Word: jed
+Predicted Word: ['jed']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºjeese
+Correct Word: jeeze
+Predicted Word: ['seesee']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºjeezus
+Correct Word: jesus
+Predicted Word: ['jees', 'jeez']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºjelous
+Correct Word: jealous
+Predicted Word: ['jealous']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºjenius
+Correct Word: genius
+Predicted Word: ['genius', 'jens', 'junius']
+Score: 1 of 3
+********************************************
+Misspelled Word£ºjeopardy
+Correct Word: jeopardy
+Predicted Word: ['jeopardy']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºjipped
+Correct Word: gypped
+Predicted Word: ['dipped', 'gipped', 'hipped', 'jipper', 'kipped', 'lipped', 'nipped', 'pepped', 'pipped', 'redipped', 'ripped', 'sipped', 'tipped', 'yipped', 'zipped']
+Score: 0 of 15
+********************************************
+Misspelled Word£ºjist
+Correct Word: gist
+Predicted Word: ['ist', 'jit', 'joist']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºjobbie
+Correct Word: joby
+Predicted Word: ['bobbie', 'dobbie', 'jobble', 'jobe', 'joie', 'mobbie', 'robbie']
+Score: 0 of 7
+********************************************
+Misspelled Word£ºjogging
+Correct Word: joggins
+Predicted Word: ['jogging']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºjoo
+Correct Word: jew
+Predicted Word: ['jo', 'oooo']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºjox
+Correct Word: jokes
+Predicted Word: ['jo', 'ox']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºjrunk
+Correct Word: drunk
+Predicted Word: ['junk']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºjudgemental
+Correct Word: judgmental
+Predicted Word: ['judgemental']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºkap
+Correct Word: caps
+Predicted Word: ['kapp']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºkerek
+Correct Word: kerrek
+Predicted Word: ['keek', 'keeker']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºkewell
+Correct Word: cool
+Predicted Word: ['kewell']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºkewl
+Correct Word: cool
+Predicted Word: ['skewl']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºkhristian
+Correct Word: christian
+Predicted Word: ['kristian']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºkidz
+Correct Word: kids
+Predicted Word: ['kid']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºkiev
+Correct Word: kyiv
+Predicted Word: ['kiev']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºkilala
+Correct Word: kirara
+Predicted Word: ['alala']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºkittah
+Correct Word: kitteh
+Predicted Word: ['kith', 'kittar']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºklol
+Correct Word: pwn
+Predicted Word: ['kl']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºknoe
+Correct Word: know
+Predicted Word: ['knowe']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºkraj
+Correct Word: cry
+Predicted Word: ['kaj', 'kra', 'raj']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºkrazie
+Correct Word: crazy
+Predicted Word: ['grazie', 'razzie']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºkrej
+Correct Word: jerk
+Predicted Word: ['kankrej']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºkritik
+Correct Word: critique
+Predicted Word: ['tikrit']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºkult
+Correct Word: cult
+Predicted Word: ['ult']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºkurva
+Correct Word: kurwa
+Predicted Word: ['urva']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºkurwa
+Correct Word: kurva
+Predicted Word: ['korwa', 'kua', 'kurku', 'kurta']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºkuw
+Correct Word: coo
+Predicted Word: ['ku', 'kuku', 'kw']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºkwazy
+Correct Word: crazy
+Predicted Word: ['dazy', 'gazy', 'hazy', 'jazy', 'kw', 'kwan', 'ky', 'lazy', 'mazy', 'twazzy']
+Score: 0 of 10
+********************************************
+Misspelled Word£ºkya
+Correct Word: kay
+Predicted Word: ['ka', 'ky', 'kyah', 'kyak', 'kyar', 'kyat', 'ya', 'yaya']
+Score: 0 of 8
+********************************************
+Misspelled Word£ºkyke
+Correct Word: kike
+Predicted Word: ['kyke']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºlaffin
+Correct Word: laughing
+Predicted Word: ['baffin', 'lain']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºlamis
+Correct Word: lmao
+Predicted Word: ['amis', 'lais', 'lamias', 'lamish', 'lams']
+Score: 0 of 5
+********************************************
+Misspelled Word£ºlamo
+Correct Word: lmao
+Predicted Word: ['alamo', 'lam', 'lao']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºlawyer
+Correct Word: liar
+Predicted Word: ['lawyer']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºlayed
+Correct Word: laid
+Predicted Word: ['layed']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºlazyness
+Correct Word: laziness
+Predicted Word: ['laziness', 'lazinesses', 'lessness']
+Score: 1 of 3
+********************************************
+Misspelled Word£ºlede
+Correct Word: lead
+Predicted Word: ['lede']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºlern
+Correct Word: learn
+Predicted Word: ['ern', 'learn', 'lectern', 'len', 'ler', 'lettern']
+Score: 1 of 6
+********************************************
+Misspelled Word£ºlezbo
+Correct Word: lesbo
+Predicted Word: ['leo', 'lesbo']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºliek
+Correct Word: like
+Predicted Word: ['lek', 'lie']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºlier
+Correct Word: liar
+Predicted Word: ['lier']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºligit
+Correct Word: legit
+Predicted Word: ['lit']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºlijke
+Correct Word: like
+Predicted Word: ['like']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºlillie
+Correct Word: lily
+Predicted Word: ['lillie']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºliter
+Correct Word: litre
+Predicted Word: ['liter']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºlitre
+Correct Word: liter
+Predicted Word: ['litre']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºllay
+Correct Word: yay
+Predicted Word: ['lay']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºlmgao
+Correct Word: lmfao
+Predicted Word: ['gao', 'lao']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºloaft
+Correct Word: loaf
+Predicted Word: ['laft', 'loaf', 'loft']
+Score: 1 of 3
+********************************************
+Misspelled Word£ºlobsta
+Correct Word: lobster
+Predicted Word: ['lobata', 'lobs', 'lota']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºlogik
+Correct Word: logic
+Predicted Word: ['loglog']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºlonk
+Correct Word: link
+Predicted Word: ['lonk']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºloose
+Correct Word: lose
+Predicted Word: ['loose']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºlooser
+Correct Word: loser
+Predicted Word: ['looser']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºloosey
+Correct Word: loosie
+Predicted Word: ['looey', 'loose', 'loosely']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºloox
+Correct Word: looks
+Predicted Word: ['lox']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºloozer
+Correct Word: loser
+Predicted Word: ['boozer', 'doozer', 'glozer', 'looker', 'loomer', 'looper', 'looser', 'looter', 'loover', 'lozenger']
+Score: 0 of 10
+********************************************
+Misspelled Word£ºlopl
+Correct Word: lol
+Predicted Word: ['l', 'lol', 'lop']
+Score: 1 of 3
+********************************************
+Misspelled Word£ºloul
+Correct Word: lol
+Predicted Word: ['l', 'lol', 'lou', 'loulu']
+Score: 1 of 4
+********************************************
+Misspelled Word£ºluhv
+Correct Word: love
+Predicted Word: ['hv', 'lu', 'lulu', 'lv']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºlulz
+Correct Word: lol
+Predicted Word: ['lulu']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºlute
+Correct Word: loot
+Predicted Word: ['lute']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºluverly
+Correct Word: loverly
+Predicted Word: ['loverly']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºluxey
+Correct Word: luxy
+Predicted Word: ['luxe']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºluzer
+Correct Word: loser
+Predicted Word: ['ler', 'luger', 'lur', 'lurer', 'luser', 'luter', 'zer']
+Score: 0 of 7
+********************************************
+Misspelled Word£ºlyfe
+Correct Word: life
+Predicted Word: ['lye']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºlyke
+Correct Word: like
+Predicted Word: ['lykewake']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºlyph
+Correct Word: life
+Predicted Word: ['glyph', 'lymph']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºlyst
+Correct Word: list
+Predicted Word: ['lst', 'lys']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºm8s
+Correct Word: mates
+Predicted Word: ['ms']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºmaek
+Correct Word: make
+Predicted Word: ['mae', 'marek']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºmaf
+Correct Word: maths
+Predicted Word: ['af', 'ma', 'mama', 'mf']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºmagick
+Correct Word: magic
+Predicted Word: ['magic']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºmagnificant
+Correct Word: magnificent
+Predicted Word: ['magnificat']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºmahn
+Correct Word: man
+Predicted Word: ['mah', 'man']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºmaing
+Correct Word: mayne
+Predicted Word: ['maintaining']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºmajik
+Correct Word: magic
+Predicted Word: ['maik']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºmakaka
+Correct Word: macaca
+Predicted Word: ['makaraka']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºmamasita
+Correct Word: mamacita
+Predicted Word: ['mama', 'matamata']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºmanches
+Correct Word: mansex
+Predicted Word: ['manches']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºmantion
+Correct Word: mansion
+Predicted Word: ['manation', 'manton']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºmaon
+Correct Word: moan
+Predicted Word: ['maomao']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºmarajuana
+Correct Word: marijuana
+Predicted Word: ['marajuana']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºmarihuana
+Correct Word: marijuana
+Predicted Word: ['marihuana']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºmasta
+Correct Word: master
+Predicted Word: ['mastaba']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºmasterbate
+Correct Word: masturbate
+Predicted Word: ['masterate']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºmasterbating
+Correct Word: masturbating
+Predicted Word: ['masturbating']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºmasterbation
+Correct Word: masturbation
+Predicted Word: ['masturbation']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºmedl
+Correct Word: metal
+Predicted Word: ['med', 'medal', 'meddled', 'medle', 'medlied', 'mel']
+Score: 0 of 6
+********************************************
+Misspelled Word£ºmessican
+Correct Word: mexican
+Predicted Word: ['cassican', 'mesian', 'messan', 'messin']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºmetre
+Correct Word: metre
+Predicted Word: ['metre', 'metreme', 'metrete']
+Score: 1 of 3
+********************************************
+Misspelled Word£ºmiaow
+Correct Word: meow
+Predicted Word: ['miaow']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºmillhouse
+Correct Word: milhouse
+Predicted Word: ['millhouse']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºmindcraft
+Correct Word: minecraft
+Predicted Word: ['adcraft', 'craft', 'handcraft', 'indraft']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºmoew
+Correct Word: more
+Predicted Word: ['mew', 'moe', 'mow']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºmopho
+Correct Word: mofo
+Predicted Word: ['mo', 'moho', 'momo', 'moph', 'morpho']
+Score: 0 of 5
+********************************************
+Misspelled Word£ºmoran
+Correct Word: moron
+Predicted Word: ['moran']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºmorman
+Correct Word: mormon
+Predicted Word: ['moorman']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºmorron
+Correct Word: moron
+Predicted Word: ['moron']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºmoslem
+Correct Word: muslim
+Predicted Word: ['moslem']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºmoted
+Correct Word: moded
+Predicted Word: ['moted']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºmotuh
+Correct Word: mouth
+Predicted Word: ['moth', 'motmot']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºmudkipz
+Correct Word: mudkips
+Predicted Word: ['mud']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºmuhhfukka
+Correct Word: motherfucker
+Predicted Word: ['mka', 'pukka']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºmurk
+Correct Word: merc
+Predicted Word: ['murk']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºnakkid
+Correct Word: naked
+Predicted Word: ['naid']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºnegar
+Correct Word: nigger
+Predicted Word: ['near', 'negara']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºnicr
+Correct Word: nice
+Predicted Word: ['nicer']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºniec
+Correct Word: nice
+Predicted Word: ['iec', 'niece']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºniga
+Correct Word: nigga
+Predicted Word: ['nig', 'nigua']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºninjitsu
+Correct Word: ninjutsu
+Predicted Word: ['ninjutsu']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºnobbs
+Correct Word: nob
+Predicted Word: ['nobs']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºnob
+Correct Word: knob
+Predicted Word: ['nob']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºnoone
+Correct Word: noon
+Predicted Word: ['none', 'nonene']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºnud
+Correct Word: nub
+Predicted Word: ['nudd']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºnught
+Correct Word: nut
+Predicted Word: ['naught', 'nought']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºnumbnuts
+Correct Word: numnut
+Predicted Word: ['nuts']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºoaky
+Correct Word: okay
+Predicted Word: ['oaky']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºoctoberfest
+Correct Word: oktoberfest
+Predicted Word: ['oktoberfest']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºocuk
+Correct Word: cock
+Predicted Word: ['ock']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºofmg
+Correct Word: omfg
+Predicted Word: ['mg', 'of', 'og']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºogd
+Correct Word: god
+Predicted Word: ['gd', 'od', 'og', 'ogdoad']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºogm
+Correct Word: omg
+Predicted Word: ['gm', 'og', 'ogam', 'ogum', 'om']
+Score: 0 of 5
+********************************************
+Misspelled Word£ºohg
+Correct Word: omg
+Predicted Word: ['hg', 'og', 'oh']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºokward
+Correct Word: awkward
+Predicted Word: ['bookward', 'onward', 'parkward', 'ward']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºoll
+Correct Word: lol
+Predicted Word: ['ol']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºolol
+Correct Word: lol
+Predicted Word: ['ol']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºong
+Correct Word: omg
+Predicted Word: ['ongoing']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºoober
+Correct Word: uber
+Predicted Word: ['berber', 'goober', 'obeyer', 'oooo']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºorgasim
+Correct Word: orgasm
+Predicted Word: ['orgasm']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºorgie
+Correct Word: orgy
+Predicted Word: ['forgie', 'orgies']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºorigonal
+Correct Word: original
+Predicted Word: ['orignal']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºosom
+Correct Word: awesome
+Predicted Word: ['om']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºossum
+Correct Word: awesome
+Predicted Word: ['opossum']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºozi
+Correct Word: aussie
+Predicted Word: ['nozi', 'oz']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºpaah
+Correct Word: pssh
+Predicted Word: ['pah']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºpach
+Correct Word: patch
+Predicted Word: ['palach']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºpacifically
+Correct Word: specifically
+Predicted Word: ['pacifically']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºpai
+Correct Word: pie
+Predicted Word: ['ai', 'opai', 'pa', 'pahi', 'paid', 'paik', 'pail', 'pain', 'paip', 'pair', 'pais', 'paki', 'pali', 'pani', 'papa', 'papain', 'papaio', 'pari', 'pasi', 'pausai', 'peai', 'pi', 'pilpai']
+Score: 1 of 23
+********************************************
+Misspelled Word£ºpartay
+Correct Word: people
+Predicted Word: ['partway', 'party', 'pay', 'tartary']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºpatwa
+Correct Word: patois
+Predicted Word: ['pa', 'papa', 'pata', 'patata']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºpawned
+Correct Word: pwned
+Predicted Word: ['pawned']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºpawn
+Correct Word: pwn
+Predicted Word: ['pawn']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºpayed
+Correct Word: paid
+Predicted Word: ['payed']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºpeaple
+Correct Word: people
+Predicted Word: ['peale']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºpensil
+Correct Word: pencil
+Predicted Word: ['pensil']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºpenus
+Correct Word: penis
+Predicted Word: ['pens']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºpeops
+Correct Word: peeps
+Predicted Word: ['pelops', 'peps', 'pops', 'ps']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºpeops
+Correct Word: peeps
+Predicted Word: ['pelops', 'peps', 'pops', 'ps']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºpersistant
+Correct Word: persistent
+Predicted Word: ['persist']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºperve
+Correct Word: perv
+Predicted Word: ['perverse', 'perversive', 'pervertive']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºphage
+Correct Word: fag
+Predicted Word: ['phage']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºphail
+Correct Word: fail
+Predicted Word: ['hail', 'pail', 'phil']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºphanny
+Correct Word: fanny
+Predicted Word: ['shanny']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºphilippino
+Correct Word: filipino
+Predicted Word: ['philippi', 'philippina', 'philippine']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºphoney
+Correct Word: phony
+Predicted Word: ['phoney']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºphsycotic
+Correct Word: psychotic
+Predicted Word: ['photic']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºpidgeon
+Correct Word: pigeon
+Predicted Word: ['pigeon', 'pigwidgeon']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºplanit
+Correct Word: planet
+Predicted Word: ['plait', 'planity', 'plant']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºplauge
+Correct Word: plague
+Predicted Word: ['plage']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºplaz
+Correct Word: plz
+Predicted Word: ['laz', 'plaza']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºplox
+Correct Word: plz
+Predicted Word: ['lox', 'phlox', 'plo', 'plotx', 'pox']
+Score: 0 of 5
+********************************************
+Misspelled Word£ºplutonic
+Correct Word: platonic
+Predicted Word: ['plutonic']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºpoep
+Correct Word: poop
+Predicted Word: ['p', 'pep', 'poe', 'pop']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºpoitin
+Correct Word: poteen
+Predicted Word: ['pointing', 'pontin', 'postin']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºpoje
+Correct Word: poke
+Predicted Word: ['poe', 'polje']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºpolotics
+Correct Word: politics
+Predicted Word: ['politics']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºpomp
+Correct Word: pompadour
+Predicted Word: ['pomp', 'pompom']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºponse
+Correct Word: ponce
+Predicted Word: ['nonsense', 'pone', 'pons', 'pose']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºpopple
+Correct Word: poppel
+Predicted Word: ['popple']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºposeur
+Correct Word: poser
+Predicted Word: ['poseur']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºpown
+Correct Word: pwn
+Predicted Word: ['own', 'pon', 'pow', 'powan', 'powny']
+Score: 0 of 5
+********************************************
+Misspelled Word£ºproabably
+Correct Word: probably
+Predicted Word: ['probably']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºproff
+Correct Word: proof
+Predicted Word: ['prof']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºprok
+Correct Word: pork
+Predicted Word: ['pro', 'proke', 'propr', 'rok']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºpron
+Correct Word: porn
+Predicted Word: ['pron']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºproove
+Correct Word: prove
+Predicted Word: ['prove']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºpropz
+Correct Word: props
+Predicted Word: ['propr']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºpsychadelic
+Correct Word: psychedelic
+Predicted Word: ['psychedelic', 'psychodelic']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºpsyche
+Correct Word: sike
+Predicted Word: ['psyche']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºpuppie
+Correct Word: puppy
+Predicted Word: ['pie', 'puppied', 'puppies']
+Score: 1 of 3
+********************************************
+Misspelled Word£ºpurpouse
+Correct Word: purpose
+Predicted Word: ['purpose', 'purpure']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºpuusy
+Correct Word: pussy
+Predicted Word: ['pussy']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºpwned
+Correct Word: owned
+Predicted Word: ['pawned']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºpwning
+Correct Word: owning
+Predicted Word: ['pining']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºpwn
+Correct Word: owns
+Predicted Word: ['pawn', 'pw']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºqool
+Correct Word: cool
+Predicted Word: ['bool', 'cool', 'dool', 'fool', 'gool', 'hool', 'mool', 'ol', 'oooo', 'pool', 'ql', 'rool', 'sool', 'tool', 'wool', 'zool']
+Score: 1 of 16
+********************************************
+Misspelled Word£ºqoot
+Correct Word: cute
+Predicted Word: ['oot']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºqoot
+Correct Word: cute
+Predicted Word: ['oot']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºquen
+Correct Word: queen
+Predicted Word: ['queen']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºquess
+Correct Word: guess
+Predicted Word: ['ques', 'queues']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºqurl
+Correct Word: girl
+Predicted Word: ['quarl', 'querl', 'quirl', 'url']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºraep
+Correct Word: rape
+Predicted Word: ['rae', 'rap', 'rep']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºraido
+Correct Word: radio
+Predicted Word: ['raid', 'rapido']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºraip
+Correct Word: rape
+Predicted Word: ['graip', 'rap', 'rip']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºraper
+Correct Word: rapist
+Predicted Word: ['raper']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºraper
+Correct Word: rapist
+Predicted Word: ['raper']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºrasberry
+Correct Word: raspberry
+Predicted Word: ['raspberry']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºrascist
+Correct Word: racist
+Predicted Word: ['racist']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºrawk
+Correct Word: rock
+Predicted Word: ['awk', 'drawk', 'raw', 'rawky']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºreagen
+Correct Word: regan
+Predicted Word: ['reagent', 'ren']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºrecieve
+Correct Word: receive
+Predicted Word: ['reve', 'revere']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºrediculous
+Correct Word: ridiculous
+Predicted Word: ['pediculous', 'ridiculous']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºreneg
+Correct Word: renege
+Predicted Word: ['reneg']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºrenig
+Correct Word: renege
+Predicted Word: ['renig']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºresol
+Correct Word: loser
+Predicted Word: ['resoles']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºretarted
+Correct Word: retarded
+Predicted Word: ['retargeted', 'retarred']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºretart
+Correct Word: retard
+Predicted Word: ['tartaret']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºrite
+Correct Word: right
+Predicted Word: ['rite']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºrite
+Correct Word: right
+Predicted Word: ['rite']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºroftl
+Correct Word: rotfl
+Predicted Word: ['rotl']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºrohrer
+Correct Word: roar
+Predicted Word: ['reverer']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºrotfl
+Correct Word: rofl
+Predicted Word: ['rotl']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºroud
+Correct Word: rude
+Predicted Word: ['roud']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºrtd
+Correct Word: retard
+Predicted Word: ['rd', 'retd', 'rt', 'td']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºrudeboi
+Correct Word: rudeboy
+Predicted Word: ['rude']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºruffie
+Correct Word: roofie
+Predicted Word: ['ruffe']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºs3xy
+Correct Word: sexy
+Predicted Word: ['sexy']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºsatin
+Correct Word: satan
+Predicted Word: ['satin']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºscarrrry
+Correct Word: scary
+Predicted Word: ['scarry']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºscrony
+Correct Word: scrawny
+Predicted Word: ['crony']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºseksi
+Correct Word: sexy
+Predicted Word: ['si', 'sisi']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºseparate
+Correct Word: separate
+Predicted Word: ['separate']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºseperate
+Correct Word: separate
+Predicted Word: ['seraskerate', 'serrate', 'sperate']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºseriosly
+Correct Word: seriously
+Predicted Word: ['seriously']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºservise
+Correct Word: service
+Predicted Word: ['seise', 'semiservile', 'serve', 'service', 'servile', 'servist', 'servite', 'supervise', 'survise']
+Score: 1 of 9
+********************************************
+Misspelled Word£ºserwer
+Correct Word: server
+Predicted Word: ['ser', 'serer', 'sewer']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºsexi
+Correct Word: sexy
+Predicted Word: ['sei', 'sex']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºsexxy
+Correct Word: sexy
+Predicted Word: ['sexy']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºshek
+Correct Word: sex
+Predicted Word: ['she', 'sheik']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºsher
+Correct Word: sure
+Predicted Word: ['sher']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºshippo
+Correct Word: shippou
+Predicted Word: ['shippo']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºshortie
+Correct Word: shorty
+Predicted Word: ['shortie']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºshounen
+Correct Word: shonen
+Predicted Word: ['shoneen']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºshouta
+Correct Word: shota
+Predicted Word: ['shout']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºshugar
+Correct Word: sugar
+Predicted Word: ['shargar', 'sugar']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºsiked
+Correct Word: psyched
+Predicted Word: ['sicked', 'sike', 'silked', 'sinked', 'sked', 'spiked']
+Score: 1 of 6
+********************************************
+Misspelled Word£ºsike
+Correct Word: psych
+Predicted Word: ['sike']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºsike
+Correct Word: psych
+Predicted Word: ['sike']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºsimsons
+Correct Word: simpsons
+Predicted Word: ['simons', 'simpsons', 'sims', 'simsim', 'simson', 'sons', 'sponsons']
+Score: 1 of 7
+********************************************
+Misspelled Word£ºskelly
+Correct Word: skellie
+Predicted Word: ['skelly']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºslep
+Correct Word: sleep
+Predicted Word: ['sleep']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºsmels
+Correct Word: smells
+Predicted Word: ['smells']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºsmrat
+Correct Word: smart
+Predicted Word: ['rat', 'ratatat', 'sat', 'scrat', 'sprat', 'surat']
+Score: 0 of 6
+********************************************
+Misspelled Word£ºsmrt
+Correct Word: smart
+Predicted Word: ['smart']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºsoop
+Correct Word: sup
+Predicted Word: ['sop']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºsope
+Correct Word: soap
+Predicted Word: ['sope']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºsophmore
+Correct Word: sophomore
+Predicted Word: ['sophomore']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºspeal
+Correct Word: spiel
+Predicted Word: ['speal']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºspelt
+Correct Word: spell
+Predicted Word: ['spelt']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºspose
+Correct Word: suppose
+Predicted Word: ['sepose']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºsteriod
+Correct Word: steroid
+Predicted Word: ['sterid']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºstfy
+Correct Word: stfu
+Predicted Word: ['sty']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºstomache
+Correct Word: stomach
+Predicted Word: ['stomachache']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºstork
+Correct Word: stalk
+Predicted Word: ['stork']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºstuiped
+Correct Word: stupid
+Predicted Word: ['stiped', 'stuped']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºstuph
+Correct Word: stuff
+Predicted Word: ['stuphe']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºstupify
+Correct Word: stupefy
+Predicted Word: ['stupefy']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºstupi
+Correct Word: stupid
+Predicted Word: ['stupid', 'tupi']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºsuddle
+Correct Word: subtle
+Predicted Word: ['suddle']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºsuite
+Correct Word: sweet
+Predicted Word: ['suite']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºsummatime
+Correct Word: summertime
+Predicted Word: ['summertime']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºsurrious
+Correct Word: serious
+Predicted Word: ['susurrous']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºsuxx
+Correct Word: sucks
+Predicted Word: ['xxx']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºsware
+Correct Word: swear
+Predicted Word: ['sware']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºswarve
+Correct Word: suave
+Predicted Word: ['swarve']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºswav
+Correct Word: suave
+Predicted Word: ['sav', 'swa', 'wav']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºswete
+Correct Word: sweet
+Predicted Word: ['sweeswee', 'tete']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºtaht
+Correct Word: that
+Predicted Word: ['aht', 't', 'tat']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºtanooki
+Correct Word: tanuki
+Predicted Word: ['tano', 'tanoan', 'toki']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºtanty
+Correct Word: tantie
+Predicted Word: ['tantawy']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºtarped
+Correct Word: trapped
+Predicted Word: ['taped', 'tared']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºtarp
+Correct Word: trap
+Predicted Word: ['tarp']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºtastey
+Correct Word: tasty
+Predicted Word: ['taste', 'tasty']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºteached
+Correct Word: taught
+Predicted Word: ['teached']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºteath
+Correct Word: teeth
+Predicted Word: ['eath', 'tath', 'teat', 'teated', 'teathe', 'teth', 'th']
+Score: 0 of 7
+********************************************
+Misspelled Word£ºtember
+Correct Word: temper
+Predicted Word: ['ember', 'tembe', 'tempter', 'ter']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºterd
+Correct Word: turd
+Predicted Word: ['erd', 'ted', 'ter']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºteriffic
+Correct Word: terrific
+Predicted Word: ['terrific']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºtesticules
+Correct Word: testicles
+Predicted Word: ['testicles']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºteusday
+Correct Word: tuesday
+Predicted Word: ['day', 'tay', 'today', 'tuesday']
+Score: 1 of 4
+********************************************
+Misspelled Word£ºtew
+Correct Word: too
+Predicted Word: ['tew']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºtextable
+Correct Word: textible
+Predicted Word: ['table']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºtha
+Correct Word: the
+Predicted Word: ['tha']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºthay
+Correct Word: they
+Predicted Word: ['hay', 'tay', 'tha', 'thawy', 'thy']
+Score: 0 of 5
+********************************************
+Misspelled Word£ºtheater
+Correct Word: theatre
+Predicted Word: ['teather', 'theater']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºtheatre
+Correct Word: theater
+Predicted Word: ['theatre']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºthee
+Correct Word: the
+Predicted Word: ['thee']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºthe
+Correct Word: teh
+Predicted Word: ['the']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºthingie
+Correct Word: thingee
+Predicted Word: ['thingies']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºthingie
+Correct Word: thingee
+Predicted Word: ['thingies']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºthou
+Correct Word: though
+Predicted Word: ['thou']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºthru
+Correct Word: through
+Predicted Word: ['thru']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºthst
+Correct Word: that
+Predicted Word: ['t', 'tst']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºthy
+Correct Word: this
+Predicted Word: ['thy']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºtiddies
+Correct Word: titties
+Predicted Word: ['tidies']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºtil
+Correct Word: till
+Predicted Word: ['til']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºtlak
+Correct Word: talk
+Predicted Word: ['lak', 'talak', 'tilak']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºtoi
+Correct Word: to
+Predicted Word: ['toitoi']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºtokio
+Correct Word: tokyo
+Predicted Word: ['to', 'toki', 'toko', 'toto']
+Score: 1 of 4
+********************************************
+Misspelled Word£ºtoliet
+Correct Word: toilet
+Predicted Word: ['tolt']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºtolled
+Correct Word: told
+Predicted Word: ['tolled']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºtomagotchi
+Correct Word: tamagotchi
+Predicted Word: ['tchi']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºtomarrow
+Correct Word: tomorrow
+Predicted Word: ['marrow', 'tarrow', 'tomorrow']
+Score: 1 of 3
+********************************************
+Misspelled Word£ºtoole
+Correct Word: tool
+Predicted Word: ['tole']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºtranger
+Correct Word: stranger
+Predicted Word: ['deranger', 'ranger', 'stranger', 'tanger', 'transchanger']
+Score: 1 of 5
+********************************************
+Misspelled Word£ºtravellers
+Correct Word: travelers
+Predicted Word: ['travellers']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºtrendeh
+Correct Word: trendy
+Predicted Word: ['trend', 'trended', 'trendel']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºtrikk
+Correct Word: trick
+Predicted Word: ['rikk']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºtroupe
+Correct Word: troop
+Predicted Word: ['troupe']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºtupe
+Correct Word: type
+Predicted Word: ['stupe', 'taupe', 'tue', 'tup', 'tupek', 'tuple']
+Score: 0 of 6
+********************************************
+Misspelled Word£ºueber
+Correct Word: uber
+Predicted Word: ['berber']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºuman
+Correct Word: human
+Predicted Word: ['hanuman', 'human', 'kuman', 'man', 'manxman', 'ruman', 'unhuman', 'unman', 'urman', 'yuman']
+Score: 1 of 10
+********************************************
+Misspelled Word£ºumg
+Correct Word: omg
+Predicted Word: ['mg', 'ug', 'um', 'umgang']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºunlit
+Correct Word: until
+Predicted Word: ['unlit']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºunni
+Correct Word: eonnie
+Predicted Word: ['uni']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºunnie
+Correct Word: unni
+Predicted Word: ['unie']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºunphased
+Correct Word: unfazed
+Predicted Word: ['unphased']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºuntied
+Correct Word: united
+Predicted Word: ['untied']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºurk
+Correct Word: irk
+Predicted Word: ['burk', 'gurk', 'lurk', 'murk', 'turk', 'uk', 'ur']
+Score: 0 of 7
+********************************************
+Misspelled Word£ºur
+Correct Word: your
+Predicted Word: ['ur']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºuselss
+Correct Word: useless
+Predicted Word: ['ussels']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºvaca
+Correct Word: vacay
+Predicted Word: ['caca', 'macaca', 'va']
+Score: 1 of 3
+********************************************
+Misspelled Word£ºvaccum
+Correct Word: vacuum
+Predicted Word: ['vacuum']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºvaccuum
+Correct Word: vacuum
+Predicted Word: ['vacuum']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºvampyre
+Correct Word: vampire
+Predicted Word: ['vampyre']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºvenezia
+Correct Word: venice
+Predicted Word: ['venene']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºvillian
+Correct Word: villain
+Predicted Word: ['lillian']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºvittles
+Correct Word: victuals
+Predicted Word: ['vittles']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºvoer
+Correct Word: over
+Predicted Word: ['oer', 'ver', 'voder', 'voe', 'vomer', 'voter', 'vower']
+Score: 0 of 7
+********************************************
+Misspelled Word£ºvoldermort
+Correct Word: voldemort
+Predicted Word: ['oldermost']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºwaht
+Correct Word: what
+Predicted Word: ['wahwah']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºwaisting
+Correct Word: wasting
+Predicted Word: ['waisting']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºwao
+Correct Word: wow
+Predicted Word: ['wayao']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºwassabi
+Correct Word: wasabi
+Predicted Word: ['wasabi']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºwaterboarding
+Correct Word: waterboarding
+Predicted Word: ['waterboarding']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºwaz
+Correct Word: was
+Predicted Word: ['az', 'wa', 'walz', 'wawa']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºweiner
+Correct Word: wiener
+Predicted Word: ['weiner']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºwendsday
+Correct Word: wednesday
+Predicted Word: ['wends', 'wendy']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºwewt
+Correct Word: woot
+Predicted Word: ['wt']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºwhaen
+Correct Word: when
+Predicted Word: ['haen', 'whalen', 'whan', 'when']
+Score: 1 of 4
+********************************************
+Misspelled Word£ºwhang
+Correct Word: wang
+Predicted Word: ['whang']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºwhimp
+Correct Word: wimp
+Predicted Word: ['himp', 'whim', 'whip', 'wimp']
+Score: 1 of 4
+********************************************
+Misspelled Word£ºwhingeing
+Correct Word: whinging
+Predicted Word: ['whingeing']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºwhoah
+Correct Word: whoa
+Predicted Word: ['wh', 'whoa']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºwhoar
+Correct Word: whore
+Predicted Word: ['hoar', 'whar', 'whoa']
+Score: 1 of 3
+********************************************
+Misspelled Word£ºwiener
+Correct Word: weiner
+Predicted Word: ['wiener']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºwierd
+Correct Word: weird
+Predicted Word: ['wierd']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºwikkid
+Correct Word: wicked
+Predicted Word: ['wikiwiki']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºwimmin
+Correct Word: woman
+Predicted Word: ['win']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºwimmin
+Correct Word: woman
+Predicted Word: ['win']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºwinge
+Correct Word: whinge
+Predicted Word: ['winging']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºwo0t
+Correct Word: woot
+Predicted Word: ['wot']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºwoah
+Correct Word: whoa
+Predicted Word: ['wah', 'woa']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºwofl
+Correct Word: waffle
+Predicted Word: ['woful']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºwolk
+Correct Word: woke
+Predicted Word: ['wok']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºwomyn
+Correct Word: woman
+Predicted Word: ['woman', 'women', 'won', 'wyn']
+Score: 1 of 4
+********************************************
+Misspelled Word£ºwomyn
+Correct Word: woman
+Predicted Word: ['woman', 'women', 'won', 'wyn']
+Score: 1 of 4
+********************************************
+Misspelled Word£ºwonce
+Correct Word: once
+Predicted Word: ['once', 'wone']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºwookiee
+Correct Word: wookie
+Predicted Word: ['bookie', 'cookie', 'ieee', 'kiekie', 'kookie', 'nookie', 'okie', 'rookie', 'sookie', 'woke', 'woodie', 'woolie']
+Score: 1 of 12
+********************************************
+Misspelled Word£ºwoose
+Correct Word: wuss
+Predicted Word: ['woodwose']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºwoq
+Correct Word: wow
+Predicted Word: ['wo']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºwrod
+Correct Word: word
+Predicted Word: ['rod', 'wod', 'wro']
+Score: 0 of 3
+********************************************
+Misspelled Word£ºwrok
+Correct Word: rock
+Predicted Word: ['rok', 'wok', 'wro', 'wroke']
+Score: 0 of 4
+********************************************
+Misspelled Word£ºwut
+Correct Word: wat
+Predicted Word: ['wut']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºxln
+Correct Word: excellent
+Predicted Word: ['ln', 'xl']
+Score: 0 of 2
+********************************************
+Misspelled Word£ºxtreme
+Correct Word: extreme
+Predicted Word: ['extreme', 'metreme']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºyeass
+Correct Word: yeah
+Predicted Word: ['yeas']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºyea
+Correct Word: yeah
+Predicted Word: ['yea']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºyeay
+Correct Word: yay
+Predicted Word: ['y', 'yay', 'yea', 'yearday']
+Score: 1 of 4
+********************************************
+Misspelled Word£ºyii
+Correct Word: yes
+Predicted Word: ['yi']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºyob
+Correct Word: boy
+Predicted Word: ['yob']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºyooh
+Correct Word: you
+Predicted Word: ['ooh']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºyopu
+Correct Word: you
+Predicted Word: ['you']
+Score: 1 of 1
+********************************************
+Misspelled Word£ºyoru
+Correct Word: your
+Predicted Word: ['yor', 'you']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºyoub
+Correct Word: yoube
+Predicted Word: ['yob', 'you']
+Score: 1 of 2
+********************************************
+Misspelled Word£ºyr
+Correct Word: your
+Predicted Word: ['yr']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºyuo
+Correct Word: you
+Predicted Word: ['yo']
+Score: 0 of 1
+********************************************
+Misspelled Word£ºyuu
+Correct Word: you
+Predicted Word: ['yutu']
+Score: 0 of 1
+********************************************
+Precision: 11.71%
+Recall: 24.02%
+>>> 
